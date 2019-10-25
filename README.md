@@ -3,7 +3,7 @@ The repository contains codes for quantum Wasserstein GAN framework and its appl
 
 _Shouvanik Chakrabarti, Yiming Huang, Tongyang Li, Soheil Feizi, and Xiaodi Wu, Quantum Wasserstein Generative Adversarial Networks, NeurIPS 2019._ 
 
-###Content
+### Content
 We listed 4 applications which using quantum Wasserstein GAN framework as follows
 
 1. [Learning pure state](./pure_state/README.MD)
