@@ -66,6 +66,16 @@ All the codes have dependencies on following python library:
 2. scipy 1.1.0
 3. matplotlib 3.0.2
 
+### Citation
+If you use our code in your research or wish to refer to the baseline results, please use the following BibTeX entry.
+@inproceedings{chakrabarti2019quantum,
+  title={Quantum wasserstein generative adversarial networks},
+  author={Chakrabarti, Shouvanik and Yiming, Huang and Li, Tongyang and Feizi, Soheil and Wu, Xiaodi},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={6778--6789},
+  year={2019}
+}
+
 ### License
 Distributed under the MIT License. See LICENSE for more information.
 
