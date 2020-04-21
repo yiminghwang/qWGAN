@@ -68,7 +68,7 @@ All the codes have dependencies on following python library:
 
 ### Citation
 If you use our code in your research or wish to refer to the baseline results, please use the following BibTeX entry.
-```python
+```
 @inproceedings{chakrabarti2019quantum,
   title={Quantum wasserstein generative adversarial networks},
   author={Chakrabarti, Shouvanik and Yiming, Huang and Li, Tongyang and Feizi, Soheil and Wu, Xiaodi},
