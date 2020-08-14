@@ -21,12 +21,12 @@ We listed 4 applications which using quantum Wasserstein GAN framework as follow
 1. Create an instance of Quantum Circuit
     Such as we construct a quantum circuit as the generator:
     ```python
-    from base_notation import *
-    qcircuit = Quantum_Circuit(system_size, "generator") # create an instance of Quantum Circuit
+    from qcircuit import *
+    qc = Quantum_Circuit(system_size, "generator") # create an instance of Quantum Circuit
     ```
 2. Adding quantum gates to quantum circuit, such as:
 	```python
-    qcircuit.add(Quantum_Gate("X", i, angle=0.5000 * np.pi)) # add parameterized X Rotation gate with 0.5*pi on ith wire
+    qc.add(Quantum_Gate("X", i, angle=0.5000 * np.pi)) # add parameterized X Rotation gate with 0.5*pi on ith wire
     ```
 
 #### Create an instance of Generator
